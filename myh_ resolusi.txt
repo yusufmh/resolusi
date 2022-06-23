@@ -2,3 +2,4 @@ MYH_ RESOLUSI
 - Konsisten belajar CI4 dan Javascript
 - Mengembangkan siakad yang ada
 - Lulus S2 tepat waktu
+- Membuat rumah sendiri
